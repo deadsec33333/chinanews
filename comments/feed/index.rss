@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments for Hong Kong Free Press HKFP	</title>
+	<atom:link href="https://hongkongfp.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hongkongfp.com/</link>
+	<description>Hong Kong news, breaking updates - 100% Independent, impartial, non-profit</description>
+	<lastBuildDate>Tue, 11 Aug 2020 21:50:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Comment on Hong Kong security law revealed &#8211; violators may face life imprisonment by HK Catholic activists arrested, US lawmakers sanctioned in China crackdown &#8211; NEW EXPRESS NEWS		</title>
+		<link>https://hongkongfp.com/2020/06/30/breaking-hong-kong-security-law-revealed-violators-may-face-life-imprisonment/#comment-39295</link>
+
+		<dc:creator><![CDATA[HK Catholic activists arrested, US lawmakers sanctioned in China crackdown &#8211; NEW EXPRESS NEWS]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2020 21:50:56 +0000</pubDate>
+		<guid isPermaLink="false">https://hongkongfp.com/?p=268956#comment-39295</guid>
+
+					<description><![CDATA[[&#8230;] will receive a minimum of 10 years in prison, with the possibility of a life sentence. The law’s broad definition of terrorism includes arson and vandalizing public transportation “with an intent to intimidate [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] will receive a minimum of 10 years in prison, with the possibility of a life sentence. The law’s broad definition of terrorism includes arson and vandalizing public transportation “with an intent to intimidate [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on LIVE: WWII &#8216;Victory Day&#8217; marked with military parade in Beijing by China shows off &#039;aircraft carrier-killer&#039; missiles at parade as Xi announces troop cuts in the name of peace &#124; Hong Kong Free Press		</title>
+		<link>https://hongkongfp.com/2015/09/03/live-beijing-military-parade-to-commemorate-70-years-since-japanese-wwii-surrender/#comment-521</link>
+
+		<dc:creator><![CDATA[China shows off &#039;aircraft carrier-killer&#039; missiles at parade as Xi announces troop cuts in the name of peace &#124; Hong Kong Free Press]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2015 04:04:06 +0000</pubDate>
+		<guid isPermaLink="false">http://hongkongfp.com/?p=30868#comment-521</guid>
+
+					<description><![CDATA[[&#8230;] See the HKFP live blog. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] See the HKFP live blog. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
